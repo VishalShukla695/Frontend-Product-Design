@@ -1,0 +1,570 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.on-click-of-add-to-cart-m6V {
+  box-sizing: border-box;
+  padding: 8rem 8rem 10.1rem 8rem;
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-94ms-QfF {
+  margin-right: 10.6rem;
+  width: 58.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-94ms-QfF .rectangle-4-wfB {
+  margin-bottom: 3.7rem;
+  width: 58.7rem;
+  height: 69.1rem;
+  position: relative;
+  background-size: 100% 128.583%;
+  background-position: 0.4622rem -0.1392rem;
+  background-image: url('../assets/rectangle-4-nVT.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-94ms-QfF .frame-5-1f3 {
+  margin: 0rem 3.3rem 0rem 3.4rem;
+  width: calc(100% - 6.7rem);
+  height: 11.5rem;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-94ms-QfF .frame-5-1f3 .rectangle-6-Wrh {
+  width: 11.5rem;
+  height: 11.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-94ms-QfF .frame-5-1f3 .rectangle-5-SkM {
+  width: 11.5rem;
+  height: 11.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-94ms-QfF .frame-5-1f3 .group-4-PQh {
+  height: 100%;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-94ms-QfF .frame-5-1f3 .group-4-PQh .rectangle-7-xCu {
+  width: 11.5rem;
+  height: 11.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-94ms-QfF .frame-5-1f3 .rectangle-8-UBF {
+  width: 11.5rem;
+  height: 11.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo {
+  margin: 0.6rem 0rem 1.4rem 0rem;
+  width: 58.7rem;
+  height: calc(100% - 2rem);
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-10-u1f {
+  margin: 0rem 0rem 1.7rem 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-10-u1f .marmeto-dyF {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #b8bbbf;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-10-u1f .embrace-sideboard-9Au {
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .line-1-ff3 {
+  margin: 0rem 0rem 1.9rem 0.5rem;
+  width: 58.2rem;
+  height: 0.1rem;
+  background-color: #e4e4e4;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .auto-group-tuwu-pRT {
+  margin: 0rem 30.1rem 0.9rem 0.5rem;
+  width: calc(100% - 30.6rem);
+  height: 7.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .auto-group-tuwu-pRT .frame-17-JLd {
+  margin-right: 1.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .auto-group-tuwu-pRT .frame-17-JLd .item-1299900-Sxd {
+  margin-bottom: 0.5rem;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #3a4980;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .auto-group-tuwu-pRT .frame-17-JLd .item-1999900-mk1 {
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: line-through;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .auto-group-tuwu-pRT .off-h7s {
+  margin-top: 0.8rem;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(255, 0, 0, 0.5);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .line-2-pTP {
+  margin: 0rem 0rem 2.9rem 0.5rem;
+  width: 58.2rem;
+  height: 0.1rem;
+  background-color: #e4e4e4;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-20-MCR {
+  margin: 0rem 0rem 3rem 0.5rem;
+  width: 29.2rem;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-20-MCR .choose-a-color-hGH {
+  margin-bottom: 1.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #b9bbbf;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-20-MCR .frame-19-RTB {
+  width: 100%;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-20-MCR .frame-19-RTB .group-5-yUh {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-20-MCR .frame-19-RTB .group-6-Jms {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-20-MCR .frame-19-RTB .group-7-qG1 {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-20-MCR .frame-19-RTB .group-8-AZB {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .line-3-JvH {
+  margin: 0rem 0rem 1.9rem 0.5rem;
+  width: 58.2rem;
+  height: 0.1rem;
+  background-color: #e4e4e4;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb {
+  margin: 0rem 0rem 4rem 0.5rem;
+  width: 49.7rem;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .choose-a-size-b8h {
+  margin-bottom: 1.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #b9bbbf;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV {
+  width: 100%;
+  height: 3.1rem;
+  display: flex;
+  column-gap: 1.1rem;
+  align-items: center;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-21-f8Z {
+  box-sizing: border-box;
+  padding: 0.7rem 1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #edf0f8;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+  width: 20%;
+  font-size:larger;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-21-f8Z .group-10-c3o {
+  margin: 0.1rem 0.8rem 0rem 0rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-21-f8Z .group-10-c3o .rectangle-9-Vmo {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0.3rem;
+  background-color: #3a4980;
+  border-radius: 2.5rem;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-21-f8Z .group-10-c3o .rectangle-10-p3P {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #3a4980;
+  box-sizing: border-box;
+  border-radius: 3.2rem;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-21-f8Z .small-LGd {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #3a4980;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-22-f41 {
+  box-sizing: border-box;
+  padding: 0.7rem 1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f3f3f3;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+  width: 20%;
+  font-size:larger;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-22-f41 .group-10-oAD {
+  margin: 0.1rem 0.8rem 0rem 0rem;
+  width: 1.6rem;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-22-f41 .group-10-oAD .rectangle-10-Y7o {
+  width: 100%;
+  height: 1.6rem;
+  border: solid 0.1rem #716c6c;
+  box-sizing: border-box;
+  border-radius: 3.2rem;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-22-f41 .medium-GJh {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #716c6c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-23-PeD {
+  box-sizing: border-box;
+  padding: 0.7rem 1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f3f3f3;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+  width: 20%;
+  font-size:larger;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-23-PeD .group-10-LZT {
+  margin: 0.1rem 0.8rem 0rem 0rem;
+  width: 1.6rem;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-23-PeD .group-10-LZT .rectangle-10-g7X {
+  width: 100%;
+  height: 1.6rem;
+  border: solid 0.1rem #716c6c;
+  box-sizing: border-box;
+  border-radius: 3.2rem;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-23-PeD .large-ze1 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #716c6c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-24-vnZ {
+  box-sizing: border-box;
+  padding: 0.7rem 1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f3f3f3;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+  width: 20%;
+  font-size:larger;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-24-vnZ .group-10-59f {
+  margin: 0.1rem 0.8rem 0rem 0rem;
+  width: 1.6rem;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-24-vnZ .group-10-59f .rectangle-10-RDX {
+  width: 100%;
+  height: 1.6rem;
+  border: solid 0.1rem #716c6c;
+  box-sizing: border-box;
+  border-radius: 3.2rem;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-24-vnZ .extra-large-wSm {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #716c6c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-25-4XP {
+  box-sizing: border-box;
+  padding: 0.7rem 1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f3f3f3;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+  width: 20%;
+  font-size: larger;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-25-4XP .group-10-ozm {
+  margin: 0.1rem 0.8rem 0rem 0rem;
+  width: 1.6rem;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-25-4XP .group-10-ozm .rectangle-10-YxM {
+  width: 100%;
+  height: 1.6rem;
+  border: solid 0.1rem #716c6c;
+  box-sizing: border-box;
+  border-radius: 3.2rem;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-Smb .frame-23-KaV .frame-25-4XP .xxl-4Qu {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #716c6c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .group-13-BVX {
+  margin: 0rem 8.5rem 2.3rem 0.5rem;
+  width: calc(100% - 9rem);
+  height: 5.9rem;
+  display: flex;
+  align-items: center;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .group-13-BVX .group-11-Ja9 {
+  margin-right: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.6rem 2.4rem 1.6rem 2.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f3f3f3;
+  border-radius: 2.95rem;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .group-13-BVX .group-11-Ja9 .item--poP {
+  margin: 0rem 4.1rem 0.3rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #a2a2a2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .group-13-BVX .group-11-Ja9 .item-1-YDb {
+  margin-right: 4.4rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #3a4980;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .group-13-BVX .group-11-Ja9 .item--sWm {
+  margin-bottom: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #3a4980;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .group-13-BVX .group-12-mc9 {
+  box-sizing: border-box;
+  padding: 1.9rem 9.2rem 1.9rem 9.3rem;
+  width: 30.9rem;
+  height: 100%;
+  background-color: #3a4980;
+  border-radius: 2.95rem;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .group-13-BVX .group-12-mc9 .frame-27-7AD {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 0rem 0.273rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .group-13-BVX .group-12-mc9 .frame-27-7AD .frame-qru {
+  margin: 0rem 1.273rem 0.1rem 0rem;
+  width: 1.5533rem;
+  height: 1.7063rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .group-13-BVX .group-12-mc9 .frame-27-7AD .add-to-cart-kys {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .frame-26-sob {
+  margin: 0rem 0rem 1.7rem 0.5rem;
+  width: 49.5rem;
+  height: 3.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e6f7b7;
+  border-radius: 0.8rem;
+  padding: auto;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .line-4-wHf {
+  margin: 0rem 0rem 3.3rem 0.5rem;
+  width: 58.2rem;
+  height: 0.1rem;
+  background-color: #e4e4e4;
+}
+.on-click-of-add-to-cart-m6V .group-14-rdj .auto-group-bgd3-QKo .the-embrace-sideboard-is-a-stylish-wear-with-a-top-cloth-designed-to-provide-superior-protection-and-look-great-this-storage-solution-is-both-functional-and-attractive-it-fits-seamlessly-into-any-home-decor-with-clean-lines-and-a-timeless-look-crafted-from-premium-materials-for-a-combination-of-style-durability-and-reliability-sBK {
+  max-width: 55.9rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.4;
+  color: #a2a2a2;
+  font-family: Inter, 'Source Sans Pro';
+}
+button {
+  border: none;
+}
+.bigimage {
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+.description{
+  font-size: x-large;
+  color: #979494;
+}
+
